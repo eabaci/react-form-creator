@@ -1,0 +1,14 @@
+.input-field-group {
+  border: 1px solid red;
+  display: flex;
+  margin: 2px;
+  padding: 4px;
+}
+
+.input-field {
+  padding: 0 4px;
+}
+
+.input-field label {
+  padding: 0 6px 0 0;
+}
